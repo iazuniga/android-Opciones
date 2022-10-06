@@ -5,14 +5,7 @@ Ejemplo Opciones de selección básico, una segunda "ventanas" atiende la opció
 
 * En Activity2.kt, se muestra el código principal para "ir atras" entre las activity y recuperación de la información intercambiada entre las 2 activity: 
 ```
-        val btnBack:Button=findViewById(R.id.btnBack)
-        btnBack.setOnClickListener { onBackPressed() }
-        ...
-        val bundle = intent.extras
-        val name = bundle?.get("INTENT_NAME")
-        //tvGreeting.text = "Hi $name"
-        val tvGreeting: TextView =findViewById(R.id.tvGreeting)
-        tvGreeting.text = "Hi $name"
+
 ```
 
 
