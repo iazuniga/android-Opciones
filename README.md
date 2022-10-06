@@ -1,4 +1,4 @@
-# android-Opciones
+# android-opciones
 Ejemplo Opciones de selección básico, una segunda "ventanas" atiende la opción solicitada, Android con Kotlin. Modificado con fines didácticos. Original:https://youtu.be/j4j_jN-Bp7U y https://youtu.be/Ql2JlSQJD28
 > UI compuesta de 2 activity, entre las cuales se puede ir de una o la otra y viseversa, pasando información (nombre y opción) de una a otra, la segunda atiemnde la opción seleccionada.
 
